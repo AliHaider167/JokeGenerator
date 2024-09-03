@@ -1,0 +1,46 @@
+main{
+  text-align: center;
+  margin-left: 500px;
+  margin-top: 200px;
+}
+
+.jokeContainer{
+  background-color: rgb(74, 70, 70);
+ width: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 6px;
+}
+
+.emojie{
+  width: 70px;
+}
+
+.joke{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  transition: 0.15s;
+}
+
+button{
+  background-color: orangered;
+  color: white;
+  border-style: solid;
+  border-width: 0.666667px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+button:hover{
+  opacity: 0.8;
+}
+
